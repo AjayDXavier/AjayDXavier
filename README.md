@@ -2,7 +2,7 @@ Hey, I'm Ajay 👋
 🚀 Tech enthusiast | 🌱 Lifelong learner | 🤖 AI/ML Explorer  
 🔭 **Working On**: AI/ML projects, web apps (Flask/Streamlit), and 3D visualizations (Three.js + Blender).  
 🌱 **Learning**: Advanced ML, cloud computing, and Blender.  
-🤝 **Collaboration**: AI tools, web apps, and Google-related projects.  
+🤝 **Collaboration**: AI tools, web apps, and Open-source projects.  
 💬 **Interested in**: AI/ML, web dev, cloud & APIs,Guitar and random facts.  
 ⚡ **Fun Fact**: I'm always down to learn *anything* 🌍✨  
 ## 🌐 Socials:
